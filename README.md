@@ -29,6 +29,10 @@ Hello! I'm RACHIT GUPTA, a passionate **Data Analytics Enthusiast** eager to tur
 - Learning about Big Data tools like Spark and Hadoop.
 
 ---
+## Certifications
+- Accenture Data Analytics and Visualization Job Simulation on Forage
+  
+[AccentureCertificate.pdf](https://github.com/user-attachments/files/18039086/AccentureCertificate.pdf)
 
 ## 📬 Let's Connect!
 
