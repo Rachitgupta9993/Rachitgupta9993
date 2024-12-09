@@ -30,9 +30,15 @@ Hello! I'm RACHIT GUPTA, a passionate **Data Analytics Enthusiast** eager to tur
 
 ---
 ## Certifications
-- Accenture Data Analytics and Visualization Job Simulation on Forage
-  
+- Accenture Data Analytics and Visualization Job Simulation on Forage  
 [AccentureCertificate.pdf](https://github.com/user-attachments/files/18039086/AccentureCertificate.pdf)
+
+- Cisco Data Analytics Essential
+ [Data_Analytics_Essentials_Badge20241207-28-azdeal.pdf](https://github.com/user-attachments/files/18064891/Data_Analytics_Essentials_Badge20241207-28-azdeal.pdf)
+
+- Linkedin Intorduction to Career Skills in Data Analytics
+ [CertificateOfCompletion_Introduction to Career Skills in Data Analytics (1).pdf](https://github.com/user-attachments/files/18064919/CertificateOfCompletion_Introduction.to.Career.Skills.in.Data.Analytics.1.pdf)
+
 
 ## 📬 Let's Connect!
 
