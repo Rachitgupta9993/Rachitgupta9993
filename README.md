@@ -6,7 +6,7 @@ Hello! I'm RACHIT GUPTA, a passionate **Data Analytics Enthusiast** eager to tur
 
 - 📊 **Aspiring Data Analyst** with a keen interest in making sense of complex datasets.
 - 🎓 Currently learning advanced data analytics, visualization techniques, and statistical modeling.
-- 🛠️ Proficient in Python, SQL,Power BI and Excel, and exploring cloud-based analytics platforms.
+- 🛠️ Proficient in Python, SQL, Power BI and Excel, and exploring cloud-based analytics platforms.
 - 📚 Passionate about data storytelling and designing visualizations that communicate effectively.
 - 🌱 Always exploring new tools, frameworks, and methodologies in data science.
 
