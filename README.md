@@ -39,6 +39,10 @@ Hello! I'm RACHIT GUPTA, a passionate **Data Analytics Enthusiast** eager to tur
 - Linkedin Intorduction to Career Skills in Data Analytics
  [CertificateOfCompletion_Introduction to Career Skills in Data Analytics (1).pdf](https://github.com/user-attachments/files/18064919/CertificateOfCompletion_Introduction.to.Career.Skills.in.Data.Analytics.1.pdf)
 
+- HP LIFE Data Science & Analytics
+  [certificate.pdf](https://github.com/user-attachments/files/18252152/certificate.pdf)
+
+
 
 ## 📬 Let's Connect!
 
